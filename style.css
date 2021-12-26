@@ -1,0 +1,112 @@
+/* Big Picture Styling 🐧 */
+body {
+  margin:0;
+  display: flex;
+  flex-flow: column;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* ◉ Header 💀 */
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1F2937;
+  color: white;
+}
+
+.nav-links {
+  display: flex;
+}
+
+/* ◉ Section-Jumbotron */
+.section-jumbo {
+  display: flex;
+  justify-content: center;
+  background-color: #425063;
+}
+
+.jumbo-text {
+  flex-basis: 500px;
+}
+
+.jumbo-img {
+  height: 300px;
+  weight: 300px;
+}
+
+/* ◉ Section-Cards */
+.section-cards {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.card-img {
+  min-height: 200px;
+  min-width: 200px;
+  max-height: 250px;
+  max-width: 250px;
+}
+
+.card p {
+  text-align: center;
+}
+
+/* ◉ Section-Quote */
+.section-quote {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  background-color: #e5e7eb;
+  text-align: center;
+}
+
+.section-quote p {
+  align-self: flex-end;
+}
+
+/* ◉ Section-Bottom */
+.section-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.modal-cta {
+  background-color: #3882f6;
+  display: flex;
+  padding: 3rem;
+}
+
+.cta-textContainer {
+  display: flex;
+  flex-flow: column; 
+  padding: 2rem; 
+}
+
+/* ◉ Footer 🦶 */
+footer {
+  background-color: #1F2937;
+  color: white;
+  text-align: center;
+}
