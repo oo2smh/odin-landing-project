@@ -1,6 +1,6 @@
 Hi 👋
 
-#Introduction 
+Introduction 
 This is a learning exercise incorporating all of the previous lessons that I learned so far. The previous lessons have focused on the basics of
 - Having the right mindset
 - Command Line Prompt
@@ -14,11 +14,11 @@ This is a learning exercise incorporating all of the previous lessons that I lea
   - Flexbox
 
 
-#Image Attribution 📸
+Image Attribution 📸
 The following images were accessed from pexels.com and used soley for educational purposes.
 The creators of the photos have indicated that no attribution is required.
 
-#Gameplan 🛅
+Gameplan 🛅
 1. Create the initial template folders
   A. 📁img, 📃index.html, 📃style.css, 📃README.md
 2. Get all of the imgs from pexels, rename it and place it into the img folder
